@@ -1,2 +1,2 @@
 # flask-blog
-blog with python flask
+Blog with Python Flask
